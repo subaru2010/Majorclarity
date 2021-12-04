@@ -1,0 +1,12 @@
+$ ruby verify.rb
+Test Case0 PASSED
+Test Case1 PASSED
+Test Case2 PASSED
+Test Case3 PASSED
+Test Case4 PASSED
+Test Case5 PASSED
+Test Case6 PASSED
+Test Case7 Failed! Expected Result: Yes Actual: No
+Test Case8 PASSED
+Test Case9 PASSED
+Test Case10 Failed! Expected Result: Yes Actual: No
