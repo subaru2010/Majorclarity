@@ -1,0 +1,49 @@
+
+Test Case0 running ...
+Yes, can fit. One possible solution would be:
+ 9:00 AM - 12:00 PM - Meeting 1
+12:00 PM - 12:30 PM - Meeting 4
+ 1:00 PM -  3:00 PM - Meeting 2
+ 3:30 PM -  4:30 PM - Meeting 3
+
+Test Case1 running ...
+Yes, can fit. One possible solution would be:
+ 9:00 AM - 10:30 AM - Meeting 1
+10:30 AM - 11:30 AM - Meeting 3
+12:00 PM -  2:00 PM - Meeting 2
+ 2:30 PM -  3:30 PM - Meeting 4
+ 4:00 PM -  5:00 PM - Meeting 5
+
+Test Case2 running ...
+No, can’t fit.
+
+Test Case3 running ...
+Yes, can fit. One possible solution would be:
+ 9:00 AM -  9:30 AM - Meeting 2
+ 9:30 AM - 12:30 PM - Meeting 4
+ 1:00 PM -  1:30 PM - Meeting 1
+ 2:00 PM -  4:30 PM - Meeting 3
+
+Test Case4 running ...
+No, can’t fit.
+
+Test Case5 running ...
+No, can’t fit.
+
+Test Case6 running ...
+Yes, can fit. One possible solution would be:
+ 9:00 AM -  1:00 PM - Meeting 1
+ 1:00 PM -  5:00 PM - Meeting 2
+
+Test Case7 running ...
+No, can’t fit.
+
+Test Case8 running ...
+No, can’t fit.
+
+Test Case9 running ...
+Yes, can fit. One possible solution would be:
+ 9:00 AM -  5:00 PM - Meeting 1
+
+Test Case10 running ...
+No, can’t fit.
