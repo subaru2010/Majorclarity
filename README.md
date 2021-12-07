@@ -4,7 +4,9 @@ they can catch bugs correctly.
 https://github.com/subaru2010/Majorclarity
 
 The new Updates Verify Test Results and Catch Bugs Correctly.
+
 How to Run:
+
 $ruby verify.rb
 
     test2_new.rb runs the test cases.
