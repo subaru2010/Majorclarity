@@ -2,16 +2,20 @@ The new updates have the expected test result file (calendar_expected.csv), and 
 they can catch bugs correctly.
 
 https://github.com/subaru2010/Majorclarity
+
 The new Updates Verify Test Results and Catch Bugs Correctly.
 How to Run:
 $ruby verify.rb
 
     test2_new.rb runs the test cases.
+    
     calendarexpected.csv has the expected results for test cases in test2new.rb.
+    
     test2_new.rb writes all the output to console.out.
+    
     Verify.rb reads console.out line by line to get the actual test result for each test case,     
-	Verify.rb reads the calendar_expected.csv based on the test case number, and compare with the expected result.     
-	If the actual result doesn't match with the expected result. It will return the "Failed".
+    Verify.rb reads the calendar_expected.csv based on the test case number, and compare with the expected result.     
+    If the actual result doesn't match with the expected result. It will return the "Failed".
 
 From the following result, Test Case7 and Test Case10 Failed.
 
